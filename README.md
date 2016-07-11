@@ -1,5 +1,5 @@
 # conferences
-This is my public repository to share code and presentations used in recent conferences.
+This is my public repository where I share code and presentations used in recent conferences.
 
 ## Talks
 ### 2016
